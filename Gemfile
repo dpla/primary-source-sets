@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 4.1.6'
+gem 'rails', '~> 4.1.16'
 gem 'sqlite3', '~> 1.3.8'
 gem 'pg', '0.18.2'
 gem 'uglifier', '~> 2.7.1'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'therubyracer',  '~> 0.12.2', platforms: :ruby
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails', '~> 4.0.5'
 gem 'jquery-rails', '~> 3.1.3'
 gem 'jquery-ui-rails', '~> 5.0.5'
 gem 'config', '~> 1.0.0'
